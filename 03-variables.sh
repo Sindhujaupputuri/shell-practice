@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-PERSON1="trump"
+PERSON1="trump" #there should be no space befor or after =
 PERSON2="sindhu"
 
 echo "$PERSON1: hey $PERSON2, how are you?"
